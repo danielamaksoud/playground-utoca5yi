@@ -3,7 +3,11 @@
 This Python template lets you get started quickly with a simple one-page playground.
 
 ```python runnable
-print('Hello World!')
+x = 39**(1/2);
+
+perimetro = 4*x;
+
+print("O perimetro da almofada e", perimetro, "cm");
 ```
 
 # Advanced usage
